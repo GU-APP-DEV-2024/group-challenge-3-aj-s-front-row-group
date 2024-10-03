@@ -1,7 +1,7 @@
 package memorygame
 
 class Board( ) {
-    //Constructor to create board of different sizes.
+    // Constructor to create board of different sizes.
     // Assign
     private val cards: Array<Card> = arrayOf<Card>(Card('c', "a"),
         Card('h', "10"),
